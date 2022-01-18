@@ -4,7 +4,7 @@
     "occupation": "In Training",
     "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio": "Current Software Engineer",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "lopezrod2229@gmail.com",
     "phone": "210-848-5286",
@@ -33,16 +33,16 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Pennsylvania State University",
+        "degree": "82.5 Credits completed towards B.S. in Computer Science",
+        "graduated": "FA 2018- SP 2021",
+        "description": ""
       },
       {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Avon Grove High School",
+        "degree": "",
+        "graduated": "2018",
+        "description": ""
       }
     ],
     "work": [
