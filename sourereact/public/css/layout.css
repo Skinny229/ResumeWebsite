@@ -318,7 +318,7 @@ ul#nav li.current a { color: #F06000; }
 
 }
 .bars li em {
-	font: 15px 'opensans-bold', sans-serif;
+	font: 13px 'opensans-bold', sans-serif;
    color: #313131;
 	text-transform: uppercase;
    letter-spacing: 2px;
@@ -414,6 +414,28 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }  */
+
+
+
+#certs {
+   background: #c2c2c267;
+   padding-top: 120px;
+   padding-bottom: 120px;
+}
+
+#certs h1 {
+   font: 19px/24px 'opensans-semibold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+   text-align: left;
+   margin-bottom: 48px;
+   color: #71d4d4;
+}
+#certs p {
+   color: white;
+   text-align:  center;
+}
+
 
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
