@@ -2,9 +2,9 @@
   "main": {
     "name": "Rodrigo Lopez",
     "occupation": "In Training",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image": "profilepic.jpg",
-    "bio": "Current Software Engineer",
+    "description": "Aspiring Software Engineer",
+    "image": "RodrigoProfile.jpg",
+    "bio": "Current Software Engineer in between jobs. Taking a break from college for mental health. Still passionate for everything programming.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "lopezrod2229@gmail.com",
     "phone": "210-848-5286",
@@ -72,7 +72,7 @@
         "level": "60%"
       },
       {
-        "name": "Illustrator",
+        "name": "AWS",
         "level": "55%"
       },
       {
@@ -80,54 +80,59 @@
         "level": "50%"
       },
       {
-        "name": "CSS",
+        "name": "Java",
         "level": "90%"
       },
       {
-        "name": "HTML5",
+        "name": "Python",
         "level": "80%"
       },
       {
-        "name": "VueJs",
+        "name": "SQL + NoSQL",
+        "level": "50%"
+
+      },
+      
+      {
+        "name": "Node.js",
         "level": "50%"
       },
       {
-        "name": "MongoDB",
+        "name": "SpringBoot",
+        "level": "80%"
+      },
+      {
+        "name": "C++",
         "level": "80%"
       }
+    
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
+        "title": "Project Astrea",
+        "category": "Lobby and Private MM service for Echo Arena VR",
+        "image": "astrea.png",
         "url": "https://www.canadianwanderlust.com"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
+        "title": "Echo Unit 229",
+        "category": "Discord Integration for lobby generation service for Echo Arena VR",
+        "image": "echo1.png",
         "url": "http://www.timbakerdev.com"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
+        "title": "FRC Robotics",
+        "category": "robot.jpg",
+        "image": "robot.jpg",
         "url": "http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
         "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "category": "A React based resume website deployed using AWS Cloudfront, Route53, and S3",
+        "image": "website.png",
+        "url": "https://www.rigoapplications.com"
       }
     ]
   },

@@ -17,6 +17,10 @@ class Certifications extends Component {
                         <div className="three columns main-col certDisplay">
                             <a target="_blank" href="https://www.credly.com/badges/21c76cf0-c87f-472d-9955-19a085b228f1"><img src="images/AWSSAA.png"/> </a>
                         </div>
+                        <div className="three columns main-col certDisplay">
+                            <img src="/images/awsdeveloper.png"/>
+                            <p>Estimated Completion: Mid Feb.</p>
+                        </div>
                     </div>
                 </div>
             </section>
